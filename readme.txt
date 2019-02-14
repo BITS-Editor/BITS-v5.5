@@ -1,35 +1,34 @@
-BITS Behörden-IT-Sicherheitstraining
+BITS BehÃ¶rden-IT-Sicherheitstraining
 
 
 
-Stand: 11.12.2018
+Stand: XXX.YY.2019
+Version 5.1
 
-Version 5.01
 
-
-Ansprechpartner Dr. Lutz Gollan, Behörde für Inneres und Sport, Hamburg
+Ansprechpartner Dr. Lutz Gollan, BehÃ¶rde fÃ¼r Inneres und Sport, Hamburg
 E-Mail: Lutz.Gollan@bis.hamburg.de
 
 
 
-1.Überblick
+1.Ãœberblick
 
-Unter dem Titel „BITS Behörden-IT-Sicherheitstraining“ hat im Jahr 2006 eine Arbeitsgruppe des Arbeitskreises Informationstechnologie des Städte- und Gemeindebundes Nordrhein-Westfalen das für Unternehmen konzipierte Computersicherheitstraining „open beware!“ an die Anforderungen von Verwaltungen angepasst. Mittlerweile liegt die aktualisierte Version 5 vor. Seit Oktober 2010 wird BITS von der Kommunal Agentur NRW GmbH (https://www.kommunalagenturnrw.de) mit Unterstützung von Dr. Lutz Gollan, Behörde für Inneres und Sport, Hamburg, herausgegeben. Die letzten Änderungen sind der Changelog-Datei zu entnehmen.
+Unter dem Titel â€BITS BehÃ¶rden-IT-Sicherheitstrainingâ€œ hat im Jahr 2006 eine Arbeitsgruppe des Arbeitskreises Informationstechnologie des StÃ¤dte- und Gemeindebundes Nordrhein-Westfalen das fÃ¼r Unternehmen konzipierte Computersicherheitstraining â€open beware!â€œ an die Anforderungen von Verwaltungen angepasst. Mittlerweile liegt die aktualisierte Version 5 vor. Seit Oktober 2010 wird BITS von der Kommunal Agentur NRW GmbH (https://www.kommunalagenturnrw.de) mit UnterstÃ¼tzung von Dr. Lutz Gollan, BehÃ¶rde fÃ¼r Inneres und Sport, Hamburg, herausgegeben. Die letzten Ã„nderungen sind der Changelog-Datei zu entnehmen.
 
 
 
 2.Ziel
 
-Durch das Training sollen die Mitarbeiterinnen und Mitarbeiter von Verwaltungen, die regelmäßig an EDV-Arbeitsplätzen und insbesondere mit dem Internet beschäftigt sind, durch gezielte Information und Selbstlerneinheiten für die Sicherheitsaspekte der Computer- und Internetnutzung sensibilisiert werden.
+Durch das Training sollen die Mitarbeiterinnen und Mitarbeiter von Verwaltungen, die regelmÃ¤ÃŸig an EDV-ArbeitsplÃ¤tzen und insbesondere mit dem Internet beschÃ¤ftigt sind, durch gezielte Information und Selbstlerneinheiten fÃ¼r die Sicherheitsaspekte der Computer- und Internetnutzung sensibilisiert werden.
 
 
-Das Training ist kostenlos und vollständig browserbasiert.
+Das Training ist kostenlos und vollstÃ¤ndig browserbasiert.
 
 
 
 3.Installation und Anpassung
 
-„BITS Behörden-IT-Sicherheitstraining“ steht als ZIP-Datei zur Verfügung. Für die Mitarbeiterschaft kann es auf einem Server, einem Arbeitsplatz oder auf einem Wechselspeichermedium (DVD, USB-Stick) entpackt werden. Da „BITS Behörden-IT-Sicherheitstraining“ HTML-basiert ist, kann es problemlos in einen Intranetauftritt integriert werden. 
+â€BITS BehÃ¶rden-IT-Sicherheitstrainingâ€œ steht als ZIP-Datei zur VerfÃ¼gung. FÃ¼r die Mitarbeiterschaft kann es auf einem Server, einem Arbeitsplatz oder auf einem Wechselspeichermedium (DVD, USB-Stick) entpackt werden. Da â€BITS BehÃ¶rden-IT-Sicherheitstrainingâ€œ HTML-basiert ist, kann es problemlos in einen Intranetauftritt integriert werden.
 
 BITS kann auch auf ein Microsoft Sharepoint-Verzeichnis geladen und direkt dort aufgerufen werden.
 
@@ -39,7 +38,7 @@ In einigen Ordnern befindet sich eine Readme.txt, die Hinweise zum Anpassen, etw
 
 
 
-Vor der Freigabe für die Mitarbeiterschaft sollte die Seite „Ansprechpersonen“ für die entsprechende Verwaltung angepasst werden. Dies ist die Datei „index.htm“ im Pfad „allgemeines\ansprechpartner“. Hierzu sind HTML-Kenntnisse erforderlich. Gleiches gilt für den Fall, dass anderslautende Dienstvereinbarungen oder -anweisungen, insbesondere für die Kapitel "E-Mail" und "Vertrauliche Daten", existieren. Diese und weitere Dokumente können über die Seite "allgemeines\dokumente" verlinkt werden.
+Vor der Freigabe fÃ¼r die Mitarbeiterschaft sollte die Seite â€Ansprechpersonenâ€œ fÃ¼r die entsprechende Verwaltung angepasst werden. Dies ist die Datei â€index.htmâ€œ im Pfad â€allgemeines\ansprechpartnerâ€œ. Hierzu sind HTML-Kenntnisse erforderlich. Gleiches gilt fÃ¼r den Fall, dass anderslautende Dienstvereinbarungen oder -anweisungen, insbesondere fÃ¼r die Kapitel "E-Mail" und "Vertrauliche Daten", existieren. Diese und weitere Dokumente kÃ¶nnen Ã¼ber die Seite "allgemeines\dokumente" verlinkt werden.
 
 Das Bild im Kopf von BITS ist die Datei header.jpg im Pfad "images\design" (960px breit, 140px hoch). Dazu kommt das linke Bild mit den "Logos" im gleichen Ordner (logolinks.jpg 220px breit, 140px hoch).
 
@@ -47,50 +46,50 @@ Bitte bedenken Sie, dass BITS nur ein Angebot darstellt und leicht auf die lokal
 
 
 
-Über die Herausgeber bzw. den oben genannten Ansprechpartner kann der MD5-Hashwert der BITS-Version abgefragt werden. Dadurch soll verhindert werden, dass eine manipulierte BITS-Version heruntergeladen bzw. eingesetzt wird.
+Ãœber die Herausgeber bzw. den oben genannten Ansprechpartner kann der MD5-Hashwert der BITS-Version abgefragt werden. Dadurch soll verhindert werden, dass eine manipulierte BITS-Version heruntergeladen bzw. eingesetzt wird.
 
 
 
 4. Bedienung und technische Anforderungen
 
-Die Bedienung von „BITS Behörden-IT-Sicherheitstraining“ erfolgt durch den Aufruf der „index.html“-Seite (unmittelbar oder durch Verlinkung hierauf). Anschließend können die weitestgehend barrierefreien Seiten durch die Maus oder durch Tastaturbefehle genutzt werden.
+Die Bedienung von â€BITS BehÃ¶rden-IT-Sicherheitstrainingâ€œ erfolgt durch den Aufruf der â€index.htmlâ€œ-Seite (unmittelbar oder durch Verlinkung hierauf). AnschlieÃŸend kÃ¶nnen die weitestgehend barrierefreien Seiten durch die Maus oder durch Tastaturbefehle genutzt werden.
 
 
 
-BITS unterstützt grundsätzlich jeden aktuellen Browser. JavaScript muss aktiviert sein, andernfalls kommt es bei der Navigation und bei den Wissenstests zu Problemen. Eine Soundkarte bzw. Lautsprecher sind zur Nutzung nicht erforderlich. Dank des direkt eingebundenen Bootstrap-Frameworks und des responsiven Webdesigns ist auch eine Nutzung über mobile Endgeräte möglich. BITS wurde mit den Browsern MS Internet Explorer, Edge, Vivaldi, Mozilla Firefox und Chrome getestet.
+BITS unterstÃ¼tzt grundsÃ¤tzlich jeden aktuellen Browser. JavaScript muss aktiviert sein, andernfalls kommt es bei der Navigation und bei den Wissenstests zu Problemen. Eine Soundkarte bzw. Lautsprecher sind zur Nutzung nicht erforderlich. Dank des direkt eingebundenen Bootstrap-Frameworks und des responsiven Webdesigns ist auch eine Nutzung Ã¼ber mobile EndgerÃ¤te mÃ¶glich. BITS wurde mit den Browsern MS Internet Explorer, Edge, Vivaldi, Mozilla Firefox und Chrome getestet.
 
 
 
 5. "Gewinnspiel"
 
-Es besteht die Möglichkeit, dass bei den Wissenschecks am Ende der Lektionen bei Anklicken der richtigen Antwort Buchstaben eingeblendet werden. Wenn die entsprechenden Buchstaben durch den Nutzer innerhalb eines Gewinnspiels der Behörde eingesendet werden, kann so ein Anreiz zur Nutzung von BITS geschaffen werden.
+Es besteht die MÃ¶glichkeit, dass bei den Wissenschecks am Ende der Lektionen bei Anklicken der richtigen Antwort Buchstaben eingeblendet werden. Wenn die entsprechenden Buchstaben durch den Nutzer innerhalb eines Gewinnspiels der BehÃ¶rde eingesendet werden, kann so ein Anreiz zur Nutzung von BITS geschaffen werden.
 
 
 
 5.1
 
-Das Gewinnspiel ist zunächst ausgeschaltet und wird über eine Einstellung in der CSS-Definition sichtbar gemacht.
+Das Gewinnspiel ist zunÃ¤chst ausgeschaltet und wird Ã¼ber eine Einstellung in der CSS-Definition sichtbar gemacht.
 
-Ändern von
+Ã„ndern von
 	/*  Wissensquiz - Gewinnspiel einschalten / ausschalten */
 		.panel-footer-quiz {
 		  visibility: hidden;
 		  /* visibility: visible;  */
-		} 
+		}
 in
 	/* Wissensquiz - Gewinnspiel einschalten / ausschalten */
 		.panel-footer-quiz {
 		  /*  visibility: hidden; */
-		  visibility: visible;  
+		  visibility: visible;
 		  }
 
 
 
 5.2
-Als Standardlösung ist folgender Satz bereite hinterlegt:
+Als StandardlÃ¶sung ist folgender Satz bereite hinterlegt:
 Sicherheit_entsteht,_wenn_alle_mitmachen!
 
-Sie können diese ändern. Der Wissens-Check ist dazu jeweils in den Dateien test0*.htm in den Lektrionen in folgender Reihenfolge anzupassen:
+Sie kÃ¶nnen diese Ã¤ndern. Der Wissens-Check ist dazu jeweils in den Dateien test0*.htm in den Lektrionen in folgender Reihenfolge anzupassen:
 1	\e-mail\test01.htm		Si
 2	\e-mail\test02.htm		ch
 3	\e-mail\test03.htm		er
@@ -124,31 +123,31 @@ Sie können diese ändern. Der Wissens-Check ist dazu jeweils in den Dateien test0
 31	\mobile\test03.htm		n
 32	\mobile\test04.htm		!
 
-Im HTML-Quellcode zum Beispiel in der Datei  \e-mailt\test01.htm die Buchstaben "Si" hinterlegt worden. Dort können im Lösungs-Bereich 
+Im HTML-Quellcode zum Beispiel in der Datei  \e-mailt\test01.htm die Buchstaben "Si" hinterlegt worden. Dort kÃ¶nnen im LÃ¶sungs-Bereich
           <h4 class="modal-title">Richtig !</h4>
         		<div class="panel-footer-quiz">
 				<h5>
-				Zur Lösung des Quiz notieren Sie folgende Buchstaben:</h5>
+				Zur LÃ¶sung des Quiz notieren Sie folgende Buchstaben:</h5>
 				<h3>
 				<span class="label label-warning">S</span>
 				<span class="label label-warning">i</span>
 				</h3>
 				</div>
-in Zeilen 163 und 164 die Buchstaben nach Belieben angepasst und bei Bedarf die Zeilen kopiert und eingefügt (bei mehr als 2 Lösungsbuchstaben) 
-oder gelöscht (nur 1 Lösungsbuchstabe)			
+in Zeilen 163 und 164 die Buchstaben nach Belieben angepasst und bei Bedarf die Zeilen kopiert und eingefÃ¼gt (bei mehr als 2 LÃ¶sungsbuchstaben)
+oder gelÃ¶scht (nur 1 LÃ¶sungsbuchstabe)
 				<span class="label label-warning">S</span>
 				<span class="label label-warning">i</span>
-		
+
 
 6. BITS-Portal
 
-Für Administratoren steht kostenfrei das BITS-Portal http://www.bits-portal.eu zur Verfügung. Dort werden Beta-Versionen bereitgehalten, neue Funktionen und Inhalte vorgestellt und diskutiert.
+FÃ¼r Administratoren steht kostenfrei das BITS-Portal http://www.bits-portal.eu zur VerfÃ¼gung. Dort werden Beta-Versionen bereitgehalten, neue Funktionen und Inhalte vorgestellt und diskutiert.
 
 
 
 7.Rechtliches
 
-„BITS Behörden-IT-Sicherheitstraining“ basiert auf open beware!, das von der BDG GmbH & Co. KG, jetzt NTT Security (Germany) GmbH, herausgegeben wurde.
+â€BITS BehÃ¶rden-IT-Sicherheitstrainingâ€œ basiert auf open beware!, das von der BDG GmbH & Co. KG, jetzt NTT Security (Germany) GmbH, herausgegeben wurde.
 
 Die Urheber sind Herr Dr. Lutz Gollan und Herr Hartmut Honermann, PureSec GmbH.
 
@@ -161,35 +160,35 @@ Die technische Realisierung erfolgt durch Herrn Werner Eising, Stadt Coesfeld.
 BITS ist kostenlos und steht unter der Creative Commons (CC) Lizenz BY-SA (https://creativecommons.org/licenses/by-sa/3.0/de/).
 
 
-Sie dürfen:
+Sie dÃ¼rfen:
 
-— Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten
+â€” Teilen â€” das Material in jedwedem Format oder Medium vervielfÃ¤ltigen und weiterverbreiten
 -
-— Bearbeiten — das Material remixen, verändern und darauf aufbauen
-und zwar für beliebige Zwecke, sogar kommerziell.
+â€” Bearbeiten â€” das Material remixen, verÃ¤ndern und darauf aufbauen
+und zwar fÃ¼r beliebige Zwecke, sogar kommerziell.
 
 
 Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten:
 
-— Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz (diese Seite) beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders.
+â€” Namensnennung â€” Sie mÃ¼ssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz (diese Seite) beifÃ¼gen und angeben, ob Ã„nderungen vorgenommen wurden. Diese Angaben dÃ¼rfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstÃ¼tze gerade Sie oder Ihre Nutzung besonders.
 
-— Weitergabe unter gleichen Bedingungen — Wenn Sie das Material remixen, verändern oder anderweitig direkt darauf aufbauen, dürfen Sie Ihre Beiträge nur unter derselben Lizenz wie das Original verbreiten
+â€” Weitergabe unter gleichen Bedingungen â€” Wenn Sie das Material remixen, verÃ¤ndern oder anderweitig direkt darauf aufbauen, dÃ¼rfen Sie Ihre BeitrÃ¤ge nur unter derselben Lizenz wie das Original verbreiten
 
-- Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
-
-
-
-Das integrierte Bootstrap-Framework (https://getbootstrap.com/) steht unter der MIT-Lizenz, bei einer Veränderung von BITS etc. dürfen die Lizenzhinweise nicht aus dem Quelltext entfernt werden. Das Copyright für Bootstrap liegt bei Twitter.
+- Keine weiteren EinschrÃ¤nkungen â€” Sie dÃ¼rfen keine zusÃ¤tzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
 
 
 
-Die Grafiken sind unterliegen der Common Criteria CC0 (https://openclipart.org/share und https://pixabay.com/). Die Grafik viren03b-bot.jpg wurde von Herrn Jörg Lekschas erstellt.
-
- Das Urheberrecht für die Grafik header.jpg im Kopfbereich von BITS liegt bei fotolia.de/kras99. Beim Kapitel "Cloud" hat Frau Heike Brzezina wertvolle Hinweise gegeben.
+Das integrierte Bootstrap-Framework (https://getbootstrap.com/) steht unter der MIT-Lizenz, bei einer VerÃ¤nderung von BITS etc. dÃ¼rfen die Lizenzhinweise nicht aus dem Quelltext entfernt werden. Das Copyright fÃ¼r Bootstrap liegt bei Twitter.
 
 
 
-Änderungs- oder Ergänzungswünsche nimmt Dr. Lutz Gollan (Lutz.Gollan@bis.hamburg.de) gerne entgegen.
+Die Grafiken sind unterliegen der Common Criteria CC0 (https://openclipart.org/share und https://pixabay.com/). Die Grafik viren03b-bot.jpg wurde von Herrn JÃ¶rg Lekschas erstellt.
+
+ Das Urheberrecht fÃ¼r die Grafik header.jpg im Kopfbereich von BITS liegt bei fotolia.de/kras99. Beim Kapitel "Cloud" hat Frau Heike Brzezina wertvolle Hinweise gegeben.
+
+
+
+Ã„nderungs- oder ErgÃ¤nzungswÃ¼nsche nimmt Dr. Lutz Gollan (Lutz.Gollan@bis.hamburg.de) gerne entgegen.
 
 
 

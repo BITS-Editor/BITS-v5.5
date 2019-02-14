@@ -1,20 +1,20 @@
-﻿	/* 
+﻿	/*
 	------------------------------------------------------------------------
-	Hier wird nur das definiert, was nicht schon über Bootstrap 
+	Hier wird nur das definiert, was nicht schon über Bootstrap
 	(../bootstrap/css/bootstrap.min.css) erfasst ist
-	oder anders darstellt werden soll 
+	oder anders darstellt werden soll
 	WEIS
     ------------------------------------------------------------------------ */
 	/* Anpassungen:  s. Kommentare */
-	
+
 	/* 20170912 17:18 horizontale Scrollbar im Footer ausblenden  */
 	 body { overflow-x:hidden;
 	}
 
-	
+
 	/* 20170301 17:46 Defintion der Ausgabe der Verionsnummer per CSS */
 	a.bitsversion:before {
-		content: '5.01';
+		content: '5.1';
 		color: black;
 	}
 
@@ -26,9 +26,9 @@
 	/* .bitskontakt:hover {
 		color: #00487d;
 	}
-	
-	
-	/* 20161229 13:42 Header Positionierung und Rahmen 
+
+
+	/* 20161229 13:42 Header Positionierung und Rahmen
 	20170906 14:14 margin-bottom von Standard 20px auf 0 px*/
 	.page-header {
 	    margin-top: -0px;
@@ -47,7 +47,7 @@
 		  margin-top: 10px;
 		  line-height: 1;
 		}
-    /* Remove the navbar's default margin-bottom and rounded borders */ 
+    /* Remove the navbar's default margin-bottom and rounded borders */
     .navbar {
 	/* 20170301 18:22 Abstand zum Header reduziert  .navbar  20170919 16:14 zurück auf 0 - Fehlerhafte Darstellung tlw im FF */
 	  margin-top: 0px;
@@ -72,20 +72,20 @@
 	  list-style-type: none;
 	  list-style-image: none;
 	  list-style-position: outside;
-	  }	
+	  }
 	  /* Button Farbanpassungen */
 	.pager li > a
 	{
-	  color: #000000; 	
+	  color: #000000;
 	  text-decoration-color: #ffffff;
 	  text-decoration-line: none;
 	  text-decoration-style: solid;
 	  background-color: #9AB843;
 	}
-		  
+
 	.pager li > a:focus, .pager li > a:hover
 	{
-	  color: #ffffff; 	
+	  color: #ffffff;
 	  text-decoration-color: #ffffff;
 	  text-decoration-line: none;
 	  text-decoration-style: solid;
@@ -108,9 +108,9 @@
    .h1, h1
 	{
 	  font-size: 30px;
-	} 
+	}
     /* Set height of the grid so .sidenav can be 100% (adjust as needed) */
-    .row.content {height: 450px} 
+    .row.content {height: 450px}
     /* Set gray background color and 100% height */
 	/* 20170303 10:18 Weisser Hintergrund    .sidenav  */
 	/* 20170303 10:18 Ausrichtung oben angepasst an Oberkante Dopdownfeld Text Mitte 0px  .sidenav */
@@ -124,9 +124,9 @@
    .h2, h2
 	{
 	  font-size: 24px;
-	} 
+	}
     /* Set height of the grid so .sidenav can be 100% (adjust as needed) */
-    .row.content {height: 450px} 
+    .row.content {height: 450px}
     /* Set gray background color and 100% height */
 	/* 20170303 10:18 Weisser Hintergrund    .sidenav  */
 	/* 20170303 10:18 Ausrichtung oben angepasst an Oberkante Dopdownfeld Text Mitte 0px  .sidenav */
@@ -148,7 +148,7 @@
 	  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .05);
 			  box-shadow: inset 0 1px 1px rgba(0, 0, 0, .05); */
 	}
-	
+
 	/* 20170612 17:00 Einrückung reduzieren,  */
 	.li-well {
 		margin-left: -30px;
@@ -163,7 +163,7 @@
  }
 	/* 20180328 10:35 Definition des Zoomhinweises im Linken Bereich unterhalb der Grafik */
 	.img-zoom-in {
-		float: right; 
+		float: right;
 		font-size: 20px;
 		color: black;
 	}
@@ -174,14 +174,14 @@
       color: black;
       padding: 15px;
     }
-    
+
     /* On small screens, set height to 'auto' for sidenav and grid */
     @media screen and (max-width: 767px) {
       .sidenav {
         height: auto;
         padding: 15px;
       }
-      .row.content {height:auto;} 
+      .row.content {height:auto;}
     }
 	/* 20170222 13:42 Linkdarstellung  siehe https://wiki.selfhtml.org/wiki/HTML/Tutorials/Links_richtig_gestalten	*/
 		a {
@@ -212,7 +212,7 @@
 }
 
     /* 20161226 16:49 Anpassung der navbar - Generator : http://work.smarchal.com/twbscolor/css */
-	/* 20170301 17:34 Navbar Baground an CD von KUA angepasst  #00487D */     
+	/* 20170301 17:34 Navbar Baground an CD von KUA angepasst  #00487D */
 	.navbar-default {
 	  background-color: #00487D;
 	  border-color: #10529b;
@@ -295,13 +295,12 @@ a[href^="https://"] {
 	background-repeat: no-repeat;
 	padding-left: 15px;
 	background-position: 0px left top;
-} 
-*/ 
+}
+*/
 
 a[href^="http://"]:before,
 a[href^="https://"]:before {
 	background-image: url(../../bits/images/design/extern.gif);
 	background-repeat: no-repeat;
 	padding-right: 12px;
-}    	 
-
+}
