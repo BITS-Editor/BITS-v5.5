@@ -1,0 +1,307 @@
+﻿	/* 
+	------------------------------------------------------------------------
+	Hier wird nur das definiert, was nicht schon über Bootstrap 
+	(../bootstrap/css/bootstrap.min.css) erfasst ist
+	oder anders darstellt werden soll 
+	WEIS
+    ------------------------------------------------------------------------ */
+	/* Anpassungen:  s. Kommentare */
+	
+	/* 20170912 17:18 horizontale Scrollbar im Footer ausblenden  */
+	 body { overflow-x:hidden;
+	}
+
+	
+	/* 20170301 17:46 Defintion der Ausgabe der Verionsnummer per CSS */
+	a.bitsversion:before {
+		content: '5.01';
+		color: black;
+	}
+
+
+	/* 20170301 17:46 Kontakt und Impressum werden im Footer hinterlegt, Farbanpassung angelehnt an navbar */
+	.bitskontakt {
+		color: black;
+	}
+	/* .bitskontakt:hover {
+		color: #00487d;
+	}
+	
+	
+	/* 20161229 13:42 Header Positionierung und Rahmen 
+	20170906 14:14 margin-bottom von Standard 20px auf 0 px*/
+	.page-header {
+	    margin-top: -0px;
+		margin-left: 5px;
+		margin-right: 5px;
+		margin-bottom: 0px;
+		padding-top: 0px;
+		padding-right: 15px;
+		padding-left: 15px;
+		border-width: 0px;
+		}
+		/* 20171011 16:17 Header Text rechts: Zeilenabstand verringern */
+	.text-right-header
+		{
+		  text-align: right;
+		  margin-top: 10px;
+		  line-height: 1;
+		}
+    /* Remove the navbar's default margin-bottom and rounded borders */ 
+    .navbar {
+	/* 20170301 18:22 Abstand zum Header reduziert  .navbar  20170919 16:14 zurück auf 0 - Fehlerhafte Darstellung tlw im FF */
+	  margin-top: 0px;
+      margin-bottom: 0;
+      border-radius: 0;
+    }
+	/* navbar */
+	.navbar-inverse {
+    background-color: #072E59;
+    border-color: #E7E7E7;
+	}
+	/* 20170922 09:25 Zurück - Weiter Button - Ausrichtung */
+	.pager
+	{
+
+	  padding-left: 0px;
+	  margin-top: 2px;
+	  margin-right: 0px;
+	  margin-bottom: 2px;
+	  margin-left: 0px;
+	  text-align: center;
+	  list-style-type: none;
+	  list-style-image: none;
+	  list-style-position: outside;
+	  }	
+	  /* Button Farbanpassungen */
+	.pager li > a
+	{
+	  color: #000000; 	
+	  text-decoration-color: #ffffff;
+	  text-decoration-line: none;
+	  text-decoration-style: solid;
+	  background-color: #9AB843;
+	}
+		  
+	.pager li > a:focus, .pager li > a:hover
+	{
+	  color: #ffffff; 	
+	  text-decoration-color: #ffffff;
+	  text-decoration-line: none;
+	  text-decoration-style: solid;
+	  background-color: #16537F;
+}
+	  .pager .previous > a, .pager .previous > span
+	{
+	  float: right;
+	  margin-left: 16px;
+	  margin-right: 3px;
+	  border-radius:4px;
+	}
+	.pager .next > a, .pager .next > span
+	{
+	  float: right;
+	  margin-right: 3px;
+	  border-radius:5px;
+    }
+   /* Überschriftsgröße von Standard 36px auf 30px reduzieren */
+   .h1, h1
+	{
+	  font-size: 30px;
+	} 
+    /* Set height of the grid so .sidenav can be 100% (adjust as needed) */
+    .row.content {height: 450px} 
+    /* Set gray background color and 100% height */
+	/* 20170303 10:18 Weisser Hintergrund    .sidenav  */
+	/* 20170303 10:18 Ausrichtung oben angepasst an Oberkante Dopdownfeld Text Mitte 0px  .sidenav */
+	/* 20171011 16:37 Ausrichtung oben angepasst an Oberkante Überschrift Mitte +23px .sidenav*/
+    .sidenav {
+      padding-top: 23px;
+      background-color: #ffffff;
+      height: 100%;
+    }
+	   /* Überschriftsgröße von Standard 24px reduzieren */
+   .h2, h2
+	{
+	  font-size: 24px;
+	} 
+    /* Set height of the grid so .sidenav can be 100% (adjust as needed) */
+    .row.content {height: 450px} 
+    /* Set gray background color and 100% height */
+	/* 20170303 10:18 Weisser Hintergrund    .sidenav  */
+	/* 20170303 10:18 Ausrichtung oben angepasst an Oberkante Dopdownfeld Text Mitte 0px  .sidenav */
+	/* 20171011 16:37 Ausrichtung oben angepasst an Oberkante Überschrift Mitte +23px .sidenav*/
+    .sidenav {
+      padding-top: 23px;
+      background-color: #ffffff;
+      height: 100%;
+    }
+	/* Linker / rechter Bereich Weisser Hintergrund */
+	.well {
+	  background-color: #ffffff;
+	  /* min-height: 20px;
+	  padding: 19px;
+	  margin-bottom: 20px;
+	  background-color: #f5f5f5;
+	  border: 1px solid #e3e3e3;
+	  border-radius: 4px;
+	  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .05);
+			  box-shadow: inset 0 1px 1px rgba(0, 0, 0, .05); */
+	}
+	
+	/* 20170612 17:00 Einrückung reduzieren,  */
+	.li-well {
+		margin-left: -30px;
+	}
+	/*  20180228 17:55 Text-Mitte nach links verschieben - Bündig mit Dropdown */
+	.text-mitte{
+		margin-left: -10px;
+		}
+	/*  Linker Bereich - Grafiken - Bug im IE - Dort werden grosse Bilder nicht verkleinert dargestellt */
+	.img-vorschau  {
+		width: 100%;
+ }
+	/* 20180328 10:35 Definition des Zoomhinweises im Linken Bereich unterhalb der Grafik */
+	.img-zoom-in {
+		float: right; 
+		font-size: 20px;
+		color: black;
+	}
+
+	/* Set black background color, white text and some padding */
+    footer {
+      background-color: #F5F5F5;
+      color: black;
+      padding: 15px;
+    }
+    
+    /* On small screens, set height to 'auto' for sidenav and grid */
+    @media screen and (max-width: 767px) {
+      .sidenav {
+        height: auto;
+        padding: 15px;
+      }
+      .row.content {height:auto;} 
+    }
+	/* 20170222 13:42 Linkdarstellung  siehe https://wiki.selfhtml.org/wiki/HTML/Tutorials/Links_richtig_gestalten	*/
+		a {
+		display: inline-block;
+		padding-left: 0.0em;
+		text-decoration: none;
+	}
+
+	a::before {
+		/* content: '> '; */
+		content: '';
+	}
+
+	a.backlink::before {
+		content: '< ';
+	}
+
+	a.toplink::before {
+		content: '^ ';
+	}
+
+	a[rev] {
+		padding-left: 0em;
+	}
+
+	a[rev]::before {
+		content: '';
+}
+
+    /* 20161226 16:49 Anpassung der navbar - Generator : http://work.smarchal.com/twbscolor/css */
+	/* 20170301 17:34 Navbar Baground an CD von KUA angepasst  #00487D */     
+	.navbar-default {
+	  background-color: #00487D;
+	  border-color: #10529b;
+	  margin-bottom: 4px;
+	}
+	.navbar-default .navbar-brand {
+	  color: #c8ecf5;
+	}
+	.navbar-default .navbar-brand:hover,
+	.navbar-default .navbar-brand:focus {
+	  color: #ffffff;
+	}
+	.navbar-default .navbar-text {
+	  color: #c8ecf5;
+	}
+	.navbar-default .navbar-nav > li > a {
+	  color: #c8ecf5;
+	}
+	.navbar-default .navbar-nav > li > a:hover,
+	.navbar-default .navbar-nav > li > a:focus {
+	  color: #ffffff;
+	}
+	.navbar-default .navbar-nav > .active > a,
+	.navbar-default .navbar-nav > .active > a:hover,
+	.navbar-default .navbar-nav > .active > a:focus {
+	  color: #ffffff;
+	  background-color: #10529b;
+	}
+	.navbar-default .navbar-nav > .open > a,
+	.navbar-default .navbar-nav > .open > a:hover,
+	.navbar-default .navbar-nav > .open > a:focus {
+	  color: #ffffff;
+	  background-color: #10529b;
+	}
+	.navbar-default .navbar-toggle {
+	  border-color: #10529b;
+	}
+	.navbar-default .navbar-toggle:hover,
+	.navbar-default .navbar-toggle:focus {
+	  background-color: #10529b;
+	}
+	.navbar-default .navbar-toggle .icon-bar {
+	  background-color: #c8ecf5;
+	}
+	.navbar-default .navbar-collapse,
+	.navbar-default .navbar-form {
+	  border-color: #c8ecf5;
+	}
+	.navbar-default .navbar-link {
+	  color: #c8ecf5;
+	}
+	.navbar-default .navbar-link:hover {
+	  color: #ffffff;
+	}
+
+	@media (max-width: 767px) {
+	  .navbar-default .navbar-nav .open .dropdown-menu > li > a {
+		color: #c8ecf5;
+	  }
+	  .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
+	  .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
+		color: #ffffff;
+	  }
+	  .navbar-default .navbar-nav .open .dropdown-menu > .active > a,
+	  .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover,
+	  .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
+		color: #ffffff;
+		background-color: #10529b;
+	  }
+	}
+
+/* Dann werden alle Links die mit http:// bzw. https:// beginnen mit einem kleinen Logo versehen,  */
+/* Damit wird auf externe Links aufmerksam gemacht. § 13 Abs. 5 TMG                                */
+
+
+/*
+a[href^="http://"],
+a[href^="https://"] {
+	background-image: url(../../bits/images/design/extern.gif);
+	background-repeat: no-repeat;
+	padding-left: 15px;
+	background-position: 0px left top;
+} 
+*/ 
+
+a[href^="http://"]:before,
+a[href^="https://"]:before {
+	background-image: url(../../bits/images/design/extern.gif);
+	background-repeat: no-repeat;
+	padding-right: 12px;
+}    	 
+

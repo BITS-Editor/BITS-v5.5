@@ -1,0 +1,106 @@
+/* 
+------------------------------------------------------------------------
+Hier wird nur das hinterlegt, was nicht schon über Bootstrap und der bits.css
+definiert ist, z.B. Anpassungen an das eigene Cooperate Design,
+Gewinnspiel ein-/ausblenden, ...
+WEIS
+------------------------------------------------------------------------ */
+/* 
+
+/* 20170309 17:55 Wissensquiz - Gewinnspiel einschalten / ausschalten */
+    .panel-footer-quiz {
+	  visibility: hidden;
+	  /* visibility: visible;  */
+	}
+/* 20170920 17:28 Menü-Icons ausblenden / einblenden */
+    .glyphicon {
+	  visibility: visible; 
+	  /* visibility: hidden; */
+	}
+	/* 20170922 16:08 Kontakt / Impressum zu BITS aus-/einblenden (Text und Grafik) */
+	/* .bitskontakt .glyphicon-envelope werden separat ausgeblendet */
+	.bitskontakt  {
+	  /* visibility: hidden; */
+	  visibility: visible; 
+	}
+	 .glyphicon-envelope {
+	  /* visibility: hidden; */
+	  visibility: visible;
+	}
+    
+
+/* 20170303 17:36 Alternative Darstellung der Navbar */
+/* 20170303 17:36 Quelle: https://work.smarchal.com/twbscolor/css/97bb27aad22c00487d1f058e0  */
+/* 20170303 17:36 zur Aktivierung: Kommentarbeginn und -Ende in den Zeilen 10 und 80 entfernen */
+
+/*
+.navbar-default {
+  background-color: #97bb27;
+  border-color: #aad22c;
+}
+.navbar-default .navbar-brand {
+  color: #00487d;
+}
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+  color: #1f058e;
+}
+.navbar-default .navbar-text {
+  color: #00487d;
+}
+.navbar-default .navbar-nav > li > a {
+  color: #00487d;
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+  color: #1f058e;
+}
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+  color: #1f058e;
+  background-color: #aad22c;
+}
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .open > a:hover,
+.navbar-default .navbar-nav > .open > a:focus {
+  color: #1f058e;
+  background-color: #aad22c;
+}
+.navbar-default .navbar-toggle {
+  border-color: #aad22c;
+}
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+  background-color: #aad22c;
+}
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: #00487d;
+}
+.navbar-default .navbar-collapse,
+.navbar-default .navbar-form {
+  border-color: #00487d;
+}
+.navbar-default .navbar-link {
+  color: #00487d;
+}
+.navbar-default .navbar-link:hover {
+  color: #1f058e;
+}
+
+@media (max-width: 767px) {
+  .navbar-default .navbar-nav .open .dropdown-menu > li > a {
+    color: #00487d;
+  }
+  .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
+  .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
+    color: #1f058e;
+  }
+  .navbar-default .navbar-nav .open .dropdown-menu > .active > a,
+  .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover,
+  .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
+    color: #1f058e;
+    background-color: #aad22c;
+  }
+}
+*/
