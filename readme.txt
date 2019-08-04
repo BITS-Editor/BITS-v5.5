@@ -6,14 +6,14 @@ Stand: XXX.YY.2019
 Version 5.1
 
 
-Ansprechpartner Dr. Lutz Gollan, Behörde für Inneres und Sport, Hamburg
-E-Mail: Lutz.Gollan@bis.hamburg.de
+Ansprechpartner Dr. Lutz Gollan, Landesbetrieb Verkehr, Hamburg
+E-Mail: Lutz.Gollan@lbv.hamburg.de
 
 
 
 1.Überblick
 
-Unter dem Titel „BITS Behörden-IT-Sicherheitstraining“ hat im Jahr 2006 eine Arbeitsgruppe des Arbeitskreises Informationstechnologie des Städte- und Gemeindebundes Nordrhein-Westfalen das für Unternehmen konzipierte Computersicherheitstraining „open beware!“ an die Anforderungen von Verwaltungen angepasst. Mittlerweile liegt die aktualisierte Version 5 vor. Seit Oktober 2010 wird BITS von der Kommunal Agentur NRW GmbH (https://www.kommunalagenturnrw.de) mit Unterstützung von Dr. Lutz Gollan, Behörde für Inneres und Sport, Hamburg, herausgegeben. Die letzten Änderungen sind der Changelog-Datei zu entnehmen.
+Unter dem Titel „BITS Behörden-IT-Sicherheitstraining“ hat im Jahr 2006 eine Arbeitsgruppe des Arbeitskreises Informationstechnologie des Städte- und Gemeindebundes Nordrhein-Westfalen das für Unternehmen konzipierte Computersicherheitstraining „open beware!“ an die Anforderungen von Verwaltungen angepasst. Mittlerweile liegt die aktualisierte Version 5 vor. Seit Oktober 2010 wird BITS von der Kommunal Agentur NRW GmbH (https://www.kommunalagenturnrw.de) mit Unterstützung von Dr. Lutz Gollan, Landesbetrieb Verkehr, Hamburg, herausgegeben. Die letzten Änderungen sind der Changelog-Datei zu entnehmen.
 
 
 
@@ -188,7 +188,7 @@ Die Grafiken sind unterliegen der Common Criteria CC0 (https://openclipart.org/s
 
 
 
-Änderungs- oder Ergänzungswünsche nimmt Dr. Lutz Gollan (Lutz.Gollan@bis.hamburg.de) gerne entgegen.
+Änderungs- oder Ergänzungswünsche nimmt Dr. Lutz Gollan (Lutz.Gollan@lbv.hamburg.de) gerne entgegen.
 
 
 
