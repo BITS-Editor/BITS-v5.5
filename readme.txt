@@ -2,7 +2,7 @@ BITS Behörden-IT-Sicherheitstraining
 
 
 
-Stand: XXX.YY.2019
+Stand: 08.09.2019
 Version 5.1
 
 
@@ -147,7 +147,7 @@ Für Administratoren steht kostenfrei das BITS-Portal http://www.bits-portal.eu 
 
 7.Rechtliches
 
-„BITS Behörden-IT-Sicherheitstraining“ basiert auf open beware!, das von der BDG GmbH & Co. KG, jetzt NTT Security (Germany) GmbH, herausgegeben wurde.
+„BITS Behörden-IT-Sicherheitstraining“ basiert auf open beware!, das von der BDG GmbH & Co. KG, jetzt NTT Security GmbH, herausgegeben wurde.
 
 Die Urheber sind Herr Dr. Lutz Gollan und Herr Hartmut Honermann, PureSec GmbH.
 
@@ -184,7 +184,7 @@ Das integrierte Bootstrap-Framework (https://getbootstrap.com/) steht unter der 
 
 Die Grafiken sind unterliegen der Common Criteria CC0 (https://openclipart.org/share und https://pixabay.com/). Die Grafik viren03b-bot.jpg wurde von Herrn Jörg Lekschas erstellt.
 
- Das Urheberrecht für die Grafik header.jpg im Kopfbereich von BITS liegt bei fotolia.de/kras99. Beim Kapitel "Cloud" hat Frau Heike Brzezina wertvolle Hinweise gegeben.
+Das Urheberrecht für die Grafik header.jpg im Kopfbereich von BITS liegt bei fotolia.de/kras99. Beim Kapitel "Cloud" hat Frau Heike Brzezina wertvolle Hinweise gegeben.
 
 
 

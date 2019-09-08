@@ -12,11 +12,14 @@
 	}
 
 
-	/* 20170301 17:46 Defintion der Ausgabe der Verionsnummer per CSS */
-	a.bitsversion:before {
-		content: '5.1';
-		color: black;
-	}
+	/* Defintion der Ausgabe der Verionsnummer per CSS */
+	.bitsversion {
+ color: black;
+ text-decoration: none !important;
+ }
+ a.bitsversion:before {
+ content: '5.1';
+ }
 
 
 	/* 20170301 17:46 Kontakt und Impressum werden im Footer hinterlegt, Farbanpassung angelehnt an navbar */
@@ -74,14 +77,14 @@
 	  list-style-position: outside;
 	  }
 	  /* Button Farbanpassungen */
-	.pager li > a
-	{
-	  color: #000000;
-	  text-decoration-color: #ffffff;
-	  text-decoration-line: none;
-	  text-decoration-style: solid;
-	  background-color: #9AB843;
-	}
+		.pager li > a
+	 {
+	 color: #000000;
+	 text-decoration-color: #ffffff;
+	 text-decoration-line: none;
+	 text-decoration-style: solid;
+	 background-color: #b6cd0b;
+	 }
 
 	.pager li > a:focus, .pager li > a:hover
 	{
