@@ -2,8 +2,8 @@ BITS Behörden-IT-Sicherheitstraining
 
 
 
-Stand: 08.09.2019
-Version 5.1
+Stand: XX.YY.2020
+Version 5.5
 
 
 Ansprechpartner Dr. Lutz Gollan, Landesbetrieb Verkehr, Hamburg
