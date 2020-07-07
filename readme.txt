@@ -13,13 +13,13 @@ E-Mail: Lutz.Gollan@lbv.hamburg.de
 
 1.Überblick
 
-Unter dem Titel „BITS Behörden-IT-Sicherheitstraining“ hat im Jahr 2006 eine Arbeitsgruppe des Arbeitskreises Informationstechnologie des Städte- und Gemeindebundes Nordrhein-Westfalen das für Unternehmen konzipierte Computersicherheitstraining „open beware!“ an die Anforderungen von Verwaltungen angepasst. Mittlerweile liegt die aktualisierte Version 5 vor. Seit Oktober 2010 wird BITS von der Kommunal Agentur NRW GmbH (https://www.kommunalagenturnrw.de) mit Unterstützung von Dr. Lutz Gollan, Landesbetrieb Verkehr, Hamburg, herausgegeben. Die letzten Änderungen sind der Changelog-Datei zu entnehmen.
+Unter dem Titel „BITS Behörden-IT-Sicherheitstraining“ hat im Jahr 2006 eine Arbeitsgruppe des Arbeitskreises Informationstechnologie des Städte- und Gemeindebundes Nordrhein-Westfalen das für Unternehmen konzipierte Computersicherheitstraining „open beware!“ an die Anforderungen von Behörden und anderen Einrichtungen angepasst. Mittlerweile liegt die aktualisierte Version 5 vor. Seit Oktober 2010 wird BITS von der Kommunal Agentur NRW GmbH (https://www.kommunalagenturnrw.de) mit Unterstützung von Dr. Lutz Gollan, Landesbetrieb Verkehr, Hamburg, herausgegeben. Die letzten Änderungen sind der Changelog-Datei zu entnehmen.
 
 
 
 2.Ziel
 
-Durch das Training sollen die Mitarbeiterinnen und Mitarbeiter von Verwaltungen, die regelmäßig an EDV-Arbeitsplätzen und insbesondere mit dem Internet beschäftigt sind, durch gezielte Information und Selbstlerneinheiten für die Sicherheitsaspekte der Computer- und Internetnutzung sensibilisiert werden.
+Durch das Training sollen die Mitarbeiterinnen und Mitarbeiter von Behörden und anderen Einrichtungen, die regelmäßig an IT-Arbeitsplätzen und insbesondere mit dem Internet beschäftigt sind, durch gezielte Information und Selbstlerneinheiten für die Sicherheitsaspekte der Computer- und Internetnutzung sensibilisiert werden.
 
 
 Das Training ist kostenlos und vollständig browserbasiert.
@@ -38,7 +38,7 @@ In einigen Ordnern befindet sich eine Readme.txt, die Hinweise zum Anpassen, etw
 
 
 
-Vor der Freigabe für die Mitarbeiterschaft sollte die Seite „Ansprechpersonen“ für die entsprechende Verwaltung angepasst werden. Dies ist die Datei „index.htm“ im Pfad „allgemeines\ansprechpartner“. Hierzu sind HTML-Kenntnisse erforderlich. Gleiches gilt für den Fall, dass anderslautende Dienstvereinbarungen oder -anweisungen, insbesondere für die Kapitel "E-Mail" und "Vertrauliche Daten", existieren. Diese und weitere Dokumente können über die Seite "allgemeines\dokumente" verlinkt werden.
+Vor der Freigabe für die Mitarbeiterschaft sollte die Seite „Ansprechpersonen“ für die entsprechende Einrichtung angepasst werden. Dies ist die Datei „index.htm“ im Pfad „allgemeines\ansprechpartner“. Hierzu sind HTML-Kenntnisse erforderlich. Gleiches gilt für den Fall, dass anderslautende Dienstvereinbarungen oder -anweisungen, insbesondere für die Kapitel "E-Mail" und "Vertrauliche Daten", existieren. Diese und weitere Dokumente können über die Seite "allgemeines\dokumente" verlinkt werden.
 
 Das Bild im Kopf von BITS ist die Datei header.jpg im Pfad "images\design" (960px breit, 140px hoch). Dazu kommt das linke Bild mit den "Logos" im gleichen Ordner (logolinks.jpg 220px breit, 140px hoch).
 
@@ -141,7 +141,7 @@ oder gelöscht (nur 1 Lösungsbuchstabe)
 
 6. BITS-Portal
 
-Für Administratoren steht kostenfrei das BITS-Portal http://www.bits-portal.eu zur Verfügung. Dort werden Beta-Versionen bereitgehalten, neue Funktionen und Inhalte vorgestellt und diskutiert.
+Für Administratoren steht kostenfrei das BITS-Portal https://www.bits-portal.eu zur Verfügung. Dort werden Beta-Versionen bereitgehalten, neue Funktionen und Inhalte vorgestellt und diskutiert.
 
 
 
@@ -157,13 +157,12 @@ Die technische Realisierung erfolgt durch Herrn Werner Eising, Stadt Coesfeld.
 
 
 
-BITS ist kostenlos und steht unter der Creative Commons (CC) Lizenz BY-SA (https://creativecommons.org/licenses/by-sa/3.0/de/).
+BITS ist kostenlos und steht unter der Creative Commons (CC) Lizenz BY-SA (https://creativecommons.org/licenses/by-sa/4.0/deed.de).
 
 
 Sie dürfen:
 
 — Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten
--
 — Bearbeiten — das Material remixen, verändern und darauf aufbauen
 und zwar für beliebige Zwecke, sogar kommerziell.
 
@@ -174,7 +173,7 @@ Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die L
 
 — Weitergabe unter gleichen Bedingungen — Wenn Sie das Material remixen, verändern oder anderweitig direkt darauf aufbauen, dürfen Sie Ihre Beiträge nur unter derselben Lizenz wie das Original verbreiten
 
-- Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
+— Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
 
 
 
