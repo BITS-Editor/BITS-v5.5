@@ -2,7 +2,7 @@ BITS Behörden-IT-Sicherheitstraining
 
 
 
-Stand: XX.YY.2020
+Stand: 05.09.2020
 Version 5.5
 
 
@@ -10,33 +10,25 @@ Ansprechpartner Dr. Lutz Gollan, Landesbetrieb Verkehr, Hamburg
 E-Mail: Lutz.Gollan@lbv.hamburg.de
 
 
+1. Überblick
 
-1.Überblick
-
-Unter dem Titel „BITS Behörden-IT-Sicherheitstraining“ hat im Jahr 2006 eine Arbeitsgruppe des Arbeitskreises Informationstechnologie des Städte- und Gemeindebundes Nordrhein-Westfalen das für Unternehmen konzipierte Computersicherheitstraining „open beware!“ an die Anforderungen von Behörden und anderen Einrichtungen angepasst. Mittlerweile liegt die aktualisierte Version 5 vor. Seit Oktober 2010 wird BITS von der Kommunal Agentur NRW GmbH (https://www.kommunalagenturnrw.de) mit Unterstützung von Dr. Lutz Gollan, Landesbetrieb Verkehr, Hamburg, herausgegeben. Die letzten Änderungen sind der Changelog-Datei zu entnehmen.
-
+Unter dem Titel „BITS Behörden-IT-Sicherheitstraining“ hat im Jahr 2006 eine Arbeitsgruppe des Arbeitskreises Informationstechnologie des Städte- und Gemeindebundes Nordrhein-Westfalen das für Unternehmen konzipierte Computersicherheitstraining „open beware!“ an die Anforderungen von Behörden und anderen Einrichtungen angepasst. Mittlerweile liegt die aktualisierte Version 5 vor. Seit Oktober 2010 wird BITS von der Kommunal Agentur NRW GmbH (https://www.kommunalagenturnrw.de) mit Unterstützung von Dr. Lutz Gollan, Landesbetrieb Verkehr, Hamburg, herausgegeben. Änderungen zur Vorversion sind über die Git-Funktionalitäten nachvollziehbar. Das Git-Repository ist unter https://github.com/BITS-Editor/BITS kostenfrei verfügbar.
 
 
-2.Ziel
+2. Ziel
 
 Durch das Training sollen die Mitarbeiterinnen und Mitarbeiter von Behörden und anderen Einrichtungen, die regelmäßig an IT-Arbeitsplätzen und insbesondere mit dem Internet beschäftigt sind, durch gezielte Information und Selbstlerneinheiten für die Sicherheitsaspekte der Computer- und Internetnutzung sensibilisiert werden.
-
 
 Das Training ist kostenlos und vollständig browserbasiert.
 
 
-
-3.Installation und Anpassung
+3. Installation und Anpassung
 
 „BITS Behörden-IT-Sicherheitstraining“ steht als ZIP-Datei zur Verfügung. Für die Mitarbeiterschaft kann es auf einem Server, einem Arbeitsplatz oder auf einem Wechselspeichermedium (DVD, USB-Stick) entpackt werden. Da „BITS Behörden-IT-Sicherheitstraining“ HTML-basiert ist, kann es problemlos in einen Intranetauftritt integriert werden.
 
 BITS kann auch auf ein Microsoft Sharepoint-Verzeichnis geladen und direkt dort aufgerufen werden.
 
-
-
 In einigen Ordnern befindet sich eine Readme.txt, die Hinweise zum Anpassen, etwa der CSS-Dateien, gibt.
-
-
 
 Vor der Freigabe für die Mitarbeiterschaft sollte die Seite „Ansprechpersonen“ für die entsprechende Einrichtung angepasst werden. Dies ist die Datei „index.htm“ im Pfad „allgemeines\ansprechpartner“. Hierzu sind HTML-Kenntnisse erforderlich. Gleiches gilt für den Fall, dass anderslautende Dienstvereinbarungen oder -anweisungen, insbesondere für die Kapitel "E-Mail" und "Vertrauliche Daten", existieren. Diese und weitere Dokumente können über die Seite "allgemeines\dokumente" verlinkt werden.
 
@@ -44,20 +36,14 @@ Das Bild im Kopf von BITS ist die Datei header.jpg im Pfad "images\design" (960p
 
 Bitte bedenken Sie, dass BITS nur ein Angebot darstellt und leicht auf die lokalen Anforderungen hin angepasst werden kann.
 
-
-
 Über die Herausgeber bzw. den oben genannten Ansprechpartner kann der MD5-Hashwert der BITS-Version abgefragt werden. Dadurch soll verhindert werden, dass eine manipulierte BITS-Version heruntergeladen bzw. eingesetzt wird.
-
 
 
 4. Bedienung und technische Anforderungen
 
 Die Bedienung von „BITS Behörden-IT-Sicherheitstraining“ erfolgt durch den Aufruf der „index.html“-Seite (unmittelbar oder durch Verlinkung hierauf). Anschließend können die weitestgehend barrierefreien Seiten durch die Maus oder durch Tastaturbefehle genutzt werden.
 
-
-
 BITS unterstützt grundsätzlich jeden aktuellen Browser. JavaScript muss aktiviert sein, andernfalls kommt es bei der Navigation und bei den Wissenstests zu Problemen. Eine Soundkarte bzw. Lautsprecher sind zur Nutzung nicht erforderlich. Dank des direkt eingebundenen Bootstrap-Frameworks und des responsiven Webdesigns ist auch eine Nutzung über mobile Endgeräte möglich. BITS wurde mit den Browsern MS Internet Explorer, Edge, Vivaldi, Mozilla Firefox und Chrome getestet.
-
 
 
 5. "Gewinnspiel"
@@ -65,9 +51,7 @@ BITS unterstützt grundsätzlich jeden aktuellen Browser. JavaScript muss aktivi
 Es besteht die Möglichkeit, dass bei den Wissenschecks am Ende der Lektionen bei Anklicken der richtigen Antwort Buchstaben eingeblendet werden. Wenn die entsprechenden Buchstaben durch den Nutzer innerhalb eines Gewinnspiels der Behörde eingesendet werden, kann so ein Anreiz zur Nutzung von BITS geschaffen werden.
 
 
-
 5.1
-
 Das Gewinnspiel ist zunächst ausgeschaltet und wird über eine Einstellung in der CSS-Definition sichtbar gemacht.
 
 Ändern von
@@ -82,7 +66,6 @@ in
 		  /*  visibility: hidden; */
 		  visibility: visible;
 		  }
-
 
 
 5.2
@@ -145,16 +128,15 @@ Für Administratoren steht kostenfrei das BITS-Portal https://www.bits-portal.eu
 
 
 
-7.Rechtliches
+7. Rechtliches
 
 „BITS Behörden-IT-Sicherheitstraining“ basiert auf open beware!, das von der BDG GmbH & Co. KG, jetzt NTT Security GmbH, herausgegeben wurde.
+
 
 Die Urheber sind Herr Dr. Lutz Gollan und Herr Hartmut Honermann, PureSec GmbH.
 
 
-
 Die technische Realisierung erfolgt durch Herrn Werner Eising, Stadt Coesfeld.
-
 
 
 BITS ist kostenlos und steht unter der Creative Commons (CC) Lizenz BY-SA (https://creativecommons.org/licenses/by-sa/4.0/deed.de).
@@ -176,9 +158,7 @@ Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die L
 — Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
 
 
-
 Das integrierte Bootstrap-Framework (https://getbootstrap.com/) steht unter der MIT-Lizenz, bei einer Veränderung von BITS etc. dürfen die Lizenzhinweise nicht aus dem Quelltext entfernt werden. Das Copyright für Bootstrap liegt bei Twitter.
-
 
 
 Die Grafiken sind unterliegen der Common Criteria CC0 (https://openclipart.org/share und https://pixabay.com/). Die Grafik viren03b-bot.jpg wurde von Herrn Jörg Lekschas erstellt.
@@ -186,9 +166,7 @@ Die Grafiken sind unterliegen der Common Criteria CC0 (https://openclipart.org/s
 Das Urheberrecht für die Grafik header.jpg im Kopfbereich von BITS liegt bei fotolia.de/kras99. Beim Kapitel "Cloud" hat Frau Heike Brzezina wertvolle Hinweise gegeben.
 
 
-
 Änderungs- oder Ergänzungswünsche nimmt Dr. Lutz Gollan (Lutz.Gollan@lbv.hamburg.de) gerne entgegen.
-
 
 
 -------------------------------------------------------------
